@@ -1,0 +1,8 @@
+title: Atlas Open Source Tuning
+description: Atlas is a free, open-source, ECU reverse-engineering and recalibration platform built from the ground up for modern vehicles.
+show_downloads: false
+show_ots: false
+google_analytics:
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
