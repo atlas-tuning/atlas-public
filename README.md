@@ -84,7 +84,3 @@ If a map area is supported, that does not mean it is complete, but that it is ex
 
 * Non-compliance with these legal requirements could jeopardize the existence of Atlas and other similar open-source projects. Atlas is dedicated to enabling vehicle enthusiasts to tune their vehicles responsibly, ensuring both environmental responsibility and full legal compliance. Users are urged to familiarize themselves with and adhere to all relevant emissions regulations to support the continued success and legality of Atlas.
 * By using Atlas, you agree to comply with all applicable emissions regulations and acknowledge that any illegal modifications to emissions-controlled components are strictly prohibited.
-
-
-## License
-Atlas is licensed under the [Affero General Public License (AGPL) version 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html). The AGPL 3.0 license was chosen to allow engineers and tuners to modify the Atlas source code and add functionality, without requiring proprietary information (tunes/calibrations) to be shared. This is done to encourage the use of Atlas by commercial entities to sell calibrations to customers, as long as all emissions laws and local laws are followed. The goal is to provide the automotive community with a wide range of tools to support their work, while ensuring that the numerous trade secrets in the commercial tuning market are not further encouraged by Atlas.
