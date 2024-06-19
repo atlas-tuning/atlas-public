@@ -5,4 +5,4 @@ show_ots: false
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  is_project_page: true
+  is_project_page: false
