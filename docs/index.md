@@ -72,6 +72,3 @@ There are several disclaimers worth stating, in regards to your use of Atlas:
 
 ## Get Involved
 Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://discord.gg/XVVm3DhJPd)!
-
-## License
-Atlas is licensed under the [Affero General Public License (AGPL) version 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html). The AGPL 3.0 license was chosen to allow engineers and tuners to modify the Atlas source code and add functionality, without requiring proprietary information (tunes/calibrations) to be shared. This is done to encourage the use of Atlas by commercial entities to sell calibrations to customers, as long as all emissions laws and local laws are followed. The goal is to provide the automotive community with a wide range of tools to support their work, while ensuring that the numerous trade secrets in the commercial tuning market are not further encouraged by Atlas.
