@@ -49,7 +49,7 @@ For more detailed information regarding ECU interfaces, calibration definitions 
 | Make   | Model     | Year      | MT          | CVT     |
 |--------|-----------|-----------|-------------|---------|
 | Subaru | WRX       | 2024      | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
-| Subaru | WRX       | 2023      | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
+| Subaru | WRX       | 2023      | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Subaru | WRX       | 2022      | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Subaru | WRX       | 2015-2021 | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Subaru | WRX STi   | 2015-2021 | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
