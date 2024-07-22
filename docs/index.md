@@ -51,9 +51,9 @@ For more detailed information regarding ECU interfaces, calibration definitions 
 | Subaru | WRX       | 2024      | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Subaru | WRX       | 2023      | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Subaru | WRX       | 2022      | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
-| Subaru | WRX       | 2015-2021 | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
+| Subaru | WRX       | 2015-2021 | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Subaru | WRX STi   | 2015-2021 | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
-| Subaru<br>Toyota | BRZ<br>GR86       | 2022+     | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
+| Subaru<br>Toyota | BRZ<br>GR86       | 2022+     | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Toyota | NXP-based | 2022+     | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 | Honda  | NXP-based | 2022+     | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) | ![Planned](https://badgen.net/badge/color/Planned/purple?label=) |
 
