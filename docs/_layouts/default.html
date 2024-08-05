@@ -19,8 +19,8 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       {% if site.show_downloads %}
         <a href="{{ site.github.winexe_url }}" class="btn">Download for Windows (.exe)</a>
-        <a href="{{ site.github.macdmg_url }}" class="btn">Download for MacOS (.dmg)</a>
-        <a href="{{ site.github.linappimage_url }}" class="btn">Download for Linux (.AppImage)</a>
+        <a href="{{ site.github.macpkg_url }}" class="btn">Download for MacOS (.pkg)</a>
+        <a href="{{ site.github.linux_url }}" class="btn">Download for Linux (.AppImage)</a>
         <a href="{{ site.github.other_url }}" class="btn">Download (Other Platforms)</a>
       {% endif %}
       {% if site.show_ots %}
