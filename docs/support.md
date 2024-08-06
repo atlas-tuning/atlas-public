@@ -3,9 +3,10 @@
 
 More supported hardware is always an interest for the project. If you have a J2534 device you'd like to have added, consider [opening an issue](https://github.com/atlas-tuning/atlas/issues) on our GitHub project to request support be added.
 
-| Device               | MacOS     | Windows   | Linux     | SteamOS    | Android     |
-|----------------------|-----------|-----------|-----------|------------|-------------|
-| [Tactrix OpenPort 2.0](https://www.tactrix.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=17&category_id=6&option=com_virtuemart&Itemid=53&redirected=1&Itemid=53) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) |
+| Device               | MacOS     | Windows   | Linux     | SteamOS    | Android     | iOS         |
+|----------------------|-----------|-----------|-----------|------------|-------------|-------------|
+| [Tactrix OpenPort 2.0](https://www.tactrix.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=17&category_id=6&option=com_virtuemart&Itemid=53&redirected=1&Itemid=53) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=)
+| [Veepeak OBDCheck BLE+](https://www.amazon.com/dp/B076XVQMVS?psc=1&ref=ppx_yo2ov_dt_b_product_details) | ![Supported](https://badgen.net/badge/color/Supported/green?label=) | ![Testing](https://badgen.net/badge/color/Testing/purple?label=) | ![Testing](https://badgen.net/badge/color/Testing/purple?label=) |  ![Testing](https://badgen.net/badge/color/Testing/purple?label=) | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=) | ![In Progress](https://badgen.net/badge/color/In%20Progress/blue?label=)
 
 ## Supported Vehicles
 
