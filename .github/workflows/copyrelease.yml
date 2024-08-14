@@ -1,0 +1,40 @@
+name: Release Artifacts
+
+on:
+  workflow_dispatch:
+
+jobs:
+
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    
+    - name: Checkout
+      uses: actions/checkout@v2
+      
+    - name: Download Artifacts from Private Repo
+      uses: dawidd6/action-download-artifact@v2
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        repository: atlas-tuning/atlas
+        workflow: release
+        name: release
+        path: ./artifacts
+        
+    - name: Generate Nightly Release Tag
+      id: tag
+      run: |
+        echo "release_tag=$(echo "Nightly-$(date +"%Y.%m.%d_%H-%M")")" >> $GITHUB_OUTPUT
+        
+    - name: Create Public Release with Packages
+      id: create_release
+      uses: softprops/action-gh-release@v2  
+      with:
+        tag_name: ${{ steps.tag.outputs.release_tag }}
+        files: |
+          ./artifacts/Atlas*.exe
+          ./artifacts/Atlas*.AppImage
+          ./artifacts/Atlas*.pkg
+        fail_on_unmatched_files: true
