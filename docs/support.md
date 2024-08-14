@@ -1,7 +1,7 @@
 # Detailed Support Information
 ## Supported Hardware: J2534 (CAN)
 
-More supported hardware is always an interest for the project. If you have a J2534 device you'd like to have added, consider [opening an issue](https://github.com/atlas-tuning/atlas/issues) on our GitHub project to request support be added.
+More supported hardware is always an interest for the project. If you have a J2534 device you'd like to have added, consider [opening an issue](https://github.com/atlas-tuning/atlas-public/issues) on our GitHub project to request support be added.
 
 | Device               | Connection | MacOS     | Windows   | Linux     | SteamOS    | Android     | iOS         |
 |----------------------|------------|-----------|-----------|-----------|------------|-------------|-------------|
