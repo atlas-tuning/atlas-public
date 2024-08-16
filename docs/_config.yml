@@ -5,8 +5,20 @@ show_ots: false
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  is_project_page: false
+  is_project_page: true
   winexe_url: https://github.com/atlas-tuning/atlas-public/releases/latest/download/Atlas_Windows_x64.exe
   macpkg_url: https://github.com/atlas-tuning/atlas-public/releases/latest/download/Atlas_MacOS.pkg
   linux_url: https://github.com/atlas-tuning/atlas-public/releases/latest/download/Atlas_Linux.AppImage
   other_url: https://github.com/atlas-tuning/atlas-public/releases/latest
+
+url: "https://atlasopensource.org/" 
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+theme: 
+plugins:
+  - jekyll-target-blank
+target-blank:
+    rel: nofollow
+header_page_refs: ['support', 'emissions']
