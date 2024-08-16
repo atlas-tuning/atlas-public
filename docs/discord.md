@@ -1,5 +1,5 @@
 ---
-redirect: https://discord.gg/XVVm3DhJPd
+redirect: https://discord.gg/tbWJshQvqR
 layout: redirect
 title: Discord Community
 ref: discord
