@@ -48,6 +48,6 @@ If a map area is supported, that does not mean it is complete, but that it is ex
 
 ## Issues/Troubleshooting
 
-Atlas is a relatively new software project, and while we strive to provide an easy to use and trouble-free product, errors may still arise. In this event, users are urged to check our currently [known issues](https://github.com/atlas-tuning/atlas/labels/bug). If this is a new issue, please [open a support ticket](https://github.com/atlas-tuning/atlas-public/issues/new?labels=bug&template=bug_report.md) on our GitHub or drop by the [Atlas Community on Discord](https://discord.gg/XVVm3DhJPd).
+Atlas is a relatively new software project, and while we strive to provide an easy to use and trouble-free product, errors may still arise. In this event, users are urged to check our currently [known issues](https://github.com/atlas-tuning/atlas/labels/bug). If this is a new issue, please [open a support ticket](https://github.com/atlas-tuning/atlas-public/issues/new?labels=bug&template=bug_report.md) on our GitHub or drop by the [Atlas Community on Discord](https://discord.gg/tbWJshQvqR).
 
 [Go to the Home Page]({{ '/' | absolute_url }})
