@@ -1,4 +1,6 @@
 ---
+layout: home
+ref: home
 carousels:
   - images: 
     - image: /assets/atlas.png
@@ -39,41 +41,6 @@ Atlas is a free, open-source ECU calibration application made for reverse-engine
 * Offers a composite project system that consolidates all calibrations and ECU configurations in a single file
 * Features an intelligent table-matching system to automatically detect new tables and discover existing tables in unknown variants
 * Enables a consistent experience across model years and variants with an intelligent calibration cross-application function
-
-## Support
-
-For more detailed information regarding ECU interfaces, calibration definitions and non-USDM models, see the [support page](./support.html).
-
-### Supported Vehicles:
-
-| Make   | Model     | Year      | Transmission |
-|--------|-----------|-----------|--------------|
-| Subaru | WRX       | 2024      | ![In Progress](https://badgen.net/badge/icon/In%20Progress?label=6MT&color=blue)<br>![Planned](https://badgen.net/badge/icon/Planned?label=CVT&color=purple) |
-| Subaru | WRX       | 2023      | ![Supported](https://badgen.net/badge/icon/Supported?label=6MT&color=green)<br>![Planned](https://badgen.net/badge/icon/Planned?label=CVT&color=purple) |
-| Subaru | WRX       | 2022      | ![Supported](https://badgen.net/badge/icon/Supported?label=6MT&color=green)<br>![Planned](https://badgen.net/badge/icon/Planned?label=CVT&color=purple) |
-| Subaru | WRX       | 2015-2021 | ![In Progress](https://badgen.net/badge/icon/In%20Progress?label=6MT&color=blue)<br>![Planned](https://badgen.net/badge/icon/Planned?label=CVT&color=purple) |
-| Subaru | WRX STi   | 2015-2021 | ![Planned](https://badgen.net/badge/icon/Planned?label=6MT&color=purple) |
-| Subaru<br>Toyota | BRZ<br>GR86       | 2022+     | ![In Progress](https://badgen.net/badge/icon/In%20Progress?label=6MT&color=blue)<br>![Planned](https://badgen.net/badge/icon/Planned?label=Auto&color=purple) |
-| Toyota | NXP-based | 2022+     | ![Planned](https://badgen.net/badge/icon/Planned?label=5/6MT&color=purple)<br>![Planned](https://badgen.net/badge/icon/Planned?label=Auto&color=purple) |
-| Honda  | NXP-based | 2022+     | ![Planned](https://badgen.net/badge/icon/Planned?label=5/6MT&color=purple)<br>![Planned](https://badgen.net/badge/icon/Planned?label=Auto&color=purple) |
-
-
-### Supported Hardware:
-
-| Device               | Platform (Desktop) | Platform (Mobile) |
-|----------------------|--------------------|-------------------|
-| [Tactrix OpenPort 2.0](https://www.tactrix.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=17&category_id=6&option=com_virtuemart&Itemid=53&redirected=1&Itemid=53) | ![Supported](https://badgen.net/badge/icon/Supported?icon=windows&label=Windows&color=green)<br>![Supported](https://badgen.net/badge/icon/Supported?icon=apple&label=Mac%20OS%20X&color=green)<br>![Supported](https://badgen.net/badge/icon/Supported?icon=terminal&label=Linux&color=green) | ![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=googleplay&label=Android&color=blue)<br>![Unsupported](https://badgen.net/badge/icon/Unsupported?icon=apple&label=iOS&color=red) |
-| [OBDLink MX+](https://www.obdlink.com/products/obdlink-mxp/) | ![Testing](https://badgen.net/badge/icon/Testing?icon=windows&label=Windows&color=purple)<br>![Supported](https://badgen.net/badge/icon/Supported?icon=apple&label=Mac%20OS%20X&color=green)<br>![Testing](https://badgen.net/badge/icon/Testing?icon=terminal&label=Linux&color=purple) | ![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=googleplay&label=Android&color=blue)<br>![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=apple&label=iOS&color=blue) |
-| [OBDLink LX](https://www.obdlink.com/products/obdlink-lx/) | ![Testing](https://badgen.net/badge/icon/Testing?icon=windows&label=Windows&color=purple)<br>![Testing](https://badgen.net/badge/icon/Testing?icon=apple&label=Mac%20OS%20X&color=purple)<br>![Testing](https://badgen.net/badge/icon/Testing?icon=terminal&label=Linux&color=purple) | ![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=googleplay&label=Android&color=blue)<br>![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=apple&label=iOS&color=blue) |
-| [OBDLink EX](https://www.obdlink.com/products/obdlink-ex/) | ![Testing](https://badgen.net/badge/icon/Testing?icon=windows&label=Windows&color=purple)<br>![Testing](https://badgen.net/badge/icon/Testing?icon=apple&label=Mac%20OS%20X&color=purple)<br>![Testing](https://badgen.net/badge/icon/Testing?icon=terminal&label=Linux&color=purple) | ![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=googleplay&label=Android&color=blue)<br>![Unsupported](https://badgen.net/badge/icon/Unsupported?icon=apple&label=iOS&color=red) |
-| [Veepeak OBDCheck BLE+](https://www.amazon.com/dp/B076XVQMVS?psc=1&ref=ppx_yo2ov_dt_b_product_details) | ![Testing](https://badgen.net/badge/icon/Testing?icon=windows&label=Windows&color=purple)<br>![Supported](https://badgen.net/badge/icon/Supported?icon=apple&label=Mac%20OS%20X&color=green)<br>![Testing](https://badgen.net/badge/icon/Testing?icon=terminal&label=Linux&color=purple) | ![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=googleplay&label=Android&color=blue)<br>![In Progress](https://badgen.net/badge/icon/In%20Progress?icon=apple&label=iOS&color=blue) |
-  
-## WARNING!
-
-There are several disclaimers worth stating, in regards to your use of Atlas:
-* Messing with your ECU is dangerous. You can "brick" or permenantly ruin an ECU by improperly instructing it to perform routines or flashing incompatible calibrations. The project recommends that users consult with a professional mechanic or tuner before making any ECU modifications. Use of the project's software tools is at the user's own risk.
-* Improperly modifying your ECU calibration (Target Boost, Ignition Timing, Mass Airflow Calibration, Wastegate Duty Cycle, Rev Limiter, Volumetric Efficiency, etc.) can directly damage your vehicles engine. This project and its contributors will not be held responsible for any damage to the engine or other vehicle components that may result from the use of these tools. Modifying a car's ECU tune can be complex and risky, and should only be attempted by experienced users.
-* In many cases, ECU access can lead to exposing calibrations for regulated systems such as emissions-related features of a vehicle. This project will not provide definitions to recalibrate any legally regulated systems (TGV, EGR, P0420, etc.). By using Atlas, you agree to use Atlas in a legal manner that abides by all laws local to you regarding these systems and their regulated calibration. Please see our [emissions statement](./emissions.html) for more information.
 
 ## Get Involved
 Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://discord.gg/XVVm3DhJPd)!
