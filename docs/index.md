@@ -12,7 +12,7 @@ carousels:
     - image: /assets/atlas7.png
 ---
 
-Atlas is a free, open-source ECU calibration application made for reverse-engineering and recalibrating modern vehicles. This project started as an effort to better understand the behavior of the 2022 WRX ECU but, as there is a lack of free and maintained tooling for software engineers and auto enthusiasts to gain first-party access to their ECUs, has since pivoted towards adopting a much broader feature set that encourages modern ECU research, recalibration and modification.
+Atlas is a free and open ECU calibration suite designed for performance tuning and reverse-engineering of modern vehicles. This project started as an effort to better understand the behavior of the 2022 WRX ECU but, as there is a lack of free and maintained tooling for software engineers and auto enthusiasts to gain first-party access to their ECUs, has since pivoted towards adopting a much broader feature set that encourages modern ECU research, recalibration and modification across increasingly diverse make and model lineups.
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
@@ -23,7 +23,7 @@ Atlas is a free, open-source ECU calibration application made for reverse-engine
 * Integrates the Ghidra SRE Framework bundle to analyze tables and emulate ROM machine code
 
 ### Versatile Connectivity:
-* Supports the Tactrix OpenPort 2.0 via direct serial/COM connection with a natively-written driver in Atlas
+* Supports the Tactrix OpenPort 2.0, OBDLink MX+ and various ELM327 adapters via direct serial/COM connection with a natively-written driver in Atlas
 
 ### Advanced Visualization and Editing:
 * Provides 2D and 3D OpenGL visualizations for gauges, tables, and function charts
