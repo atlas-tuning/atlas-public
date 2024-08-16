@@ -2,13 +2,16 @@
 layout: page
 title: Emissions and Warnings
 tagline: Atlas General Disclaimer and Emissions Statement
-permalink: /emissions.html
+permalink: emissions.html
 ref: emissions
 order: 2
 ---
 
+## Warnings
 * Messing with your ECU is dangerous. You can "brick" or permenantly ruin an ECU by improperly instructing it to perform routines or flashing incompatible calibrations. The project recommends that users consult with a professional mechanic or tuner before making any ECU modifications. Use of the project's software tools is at the user's own risk.
 * Improperly modifying your ECU calibration (Target Boost, Ignition Timing, Mass Airflow Calibration, Wastegate Duty Cycle, Rev Limiter, Volumetric Efficiency, etc.) can directly damage your vehicles engine. This project and its contributors will not be held responsible for any damage to the engine or other vehicle components that may result from the use of these tools. Modifying a car's ECU tune can be complex and risky, and should only be attempted by experienced users.
+
+## Emissions
 * In many cases, ECU access can lead to exposing calibrations for regulated systems such as emissions-related features of a vehicle. This project will not provide definitions to recalibrate any legally regulated systems (TGV, EGR, P0420, etc.). By using Atlas, you agree to use Atlas in a legal manner that abides by all laws local to you regarding these systems and their regulated calibration.
 * Atlas is open-source software intended for the legal and responsible modification of a vehicle’s ECU calibration. It is essential that users of Atlas adhere strictly to emissions regulations to ensure compliance with all applicable laws and maintain the viability of this community resource.
 * Atlas does not condone, support, or facilitate the removal or tampering of any emissions-regulated components from a vehicle. This includes, but is not limited to, components such as the Exhaust Gas Recirculation (EGR) system, Tumble Generator Valve (TGV), and catalytic converters.
