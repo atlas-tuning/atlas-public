@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support Vehicles and Hardware
+title: Supported Vehicles and Hardware
 tagline: Detailed Support Informnation
 permalink: /support.html
 ref: support
