@@ -12,7 +12,6 @@ carousels:
     - image: /assets/atlas7.png
 ---
 
-# Atlas
 Atlas is a free, open-source ECU calibration application made for reverse-engineering and recalibrating modern vehicles. This project started as an effort to better understand the behavior of the 2022 WRX ECU but, as there is a lack of free and maintained tooling for software engineers and auto enthusiasts to gain first-party access to their ECUs, has since pivoted towards adopting a much broader feature set that encourages modern ECU research, recalibration and modification.
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
