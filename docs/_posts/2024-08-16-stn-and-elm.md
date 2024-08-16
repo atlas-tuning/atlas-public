@@ -9,4 +9,4 @@ We're now very happy to announce support for certain OBDLink devices with STN ch
 
 Several STN and ELM327 devices have already been tested to function in Windows, MacOS X and Linux environments and are currently undergoing further checkout and testing.
 
-For the most up to date device support information, please check our [support page](./support.html)
+For the most up to date device support information, please check our [support page](https://atlasopensource.org/support.html)
