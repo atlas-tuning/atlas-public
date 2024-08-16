@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supported Vehicles and Hardware
-tagline: Detailed Support Informnation
+tagline: Detailed Support Information
 permalink: /support.html
 ref: support
 order: 1
