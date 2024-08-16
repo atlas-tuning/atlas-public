@@ -11,7 +11,7 @@ github:
   linux_url: https://github.com/atlas-tuning/atlas-public/releases/latest/download/Atlas_Linux.AppImage
   other_url: https://github.com/atlas-tuning/atlas-public/releases/latest
 
-url: "https://atlasopensource.org/" 
+url: "https://atlasopensource.org" 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
