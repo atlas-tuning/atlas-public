@@ -21,4 +21,4 @@ plugins:
   - jekyll-target-blank
 target-blank:
     rel: nofollow
-header_page_refs: ['support', 'emissions']
+header_page_refs: ['support', 'emissions', 'discord']
