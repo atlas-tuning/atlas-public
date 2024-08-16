@@ -2,7 +2,7 @@
 layout: page
 title: Emissions and Warnings
 tagline: Atlas General Disclaimer and Emissions Statement
-permalink: emissions.html
+permalink: /emissions.html
 ref: emissions
 order: 2
 ---
