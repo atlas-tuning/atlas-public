@@ -19,11 +19,11 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 ## Features
 ### Comprehensive Tuning Suite:
 * Enables in-depth ECU research, leading to full recalibration capabilities
-* Supports multiple platforms, including Windows, macOS (including M-series), and Linux (including SteamOS and Raspbian), leveraging Java and open-source libraries
+* Supports multiple platforms, including Windows, Mac OS X (including M-series), and Linux (including SteamOS and Raspbian), leveraging Java and open-source libraries
 * Integrates the Ghidra SRE Framework bundle to analyze tables and emulate ROM machine code
 
 ### Versatile Connectivity:
-* Supports the Tactrix OpenPort 2.0, OBDLink MX+ and various ELM327 adapters via direct serial/COM connection with a natively-written driver in Atlas
+* Supports the Tactrix OpenPort 2.0, OBDLink wireless and wired adapters as well as various ELM327 adapters via direct serial/COM connection with a natively-written driver in Atlas
 
 ### Advanced Visualization and Editing:
 * Provides 2D and 3D OpenGL visualizations for gauges, tables, and function charts
@@ -42,4 +42,4 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 * Enables a consistent experience across model years and variants with an intelligent calibration cross-application function
 
 ## Get Involved
-Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://discord.gg/XVVm3DhJPd)!
+Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://atlasopensource.org/discord.html)!
