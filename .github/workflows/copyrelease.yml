@@ -14,15 +14,14 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       
-    - name: Download Artifacts from Private Repo
-      uses: dawidd6/action-download-artifact@v2
+    - name: Download Artifacts
+      uses: dawidd6/action-download-artifact@v4
       with:
         github_token: ${{secrets.GITHUB_TOKEN}}
-        repository: atlas-tuning/atlas
-        workflow: release
-        name: release
+        repo: atlas-tuning/atlas
+        workflow: rcbuild.yml
         path: ./artifacts
-        
+
     - name: Generate Nightly Release Tag
       id: tag
       run: |
@@ -37,4 +36,5 @@ jobs:
           ./artifacts/Atlas*.exe
           ./artifacts/Atlas*.AppImage
           ./artifacts/Atlas*.pkg
+
         fail_on_unmatched_files: true
