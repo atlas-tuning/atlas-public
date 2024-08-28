@@ -18,7 +18,7 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 
 ## Features
 ### Comprehensive Tuning Suite:
-* Enables in-depth ECU research, leading to full recalibration capabilities
+* Enables in-depth ECU research and to full recalibration capabilities through an automatic ROM analysis and table match function
 * Supports multiple platforms, including Windows, Mac OS X (including M-series), and Linux (including SteamOS and Raspbian), leveraging Java and open-source libraries
 * Integrates the Ghidra SRE Framework bundle to analyze tables and emulate ROM machine code
 
