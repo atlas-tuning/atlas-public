@@ -19,6 +19,7 @@ cayman-blog:
 theme: 
 plugins:
   - jekyll-target-blank
+  - jekyll-feed
 target-blank:
     rel: nofollow
 header_page_refs: ['support', 'emissions', 'faq', 'discord']
