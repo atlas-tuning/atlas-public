@@ -111,10 +111,10 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url(/assets/banner.JPG);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  width: 100%;
+  width: auto;
   height: auto;
 
   @include large {
