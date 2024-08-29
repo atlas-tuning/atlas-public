@@ -3,12 +3,12 @@ $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
 // Headers
-$header-heading-color: #c8cdcf !default;
+$header-heading-color: {{ site.color.header | default: "#fff" }} !default;
 $header-bg-color: #301abc !default;
 $header-bg-color-secondary: #159957 !default;
 
 // Text
-$section-headings-color: #301abc !default;
+$section-headings-color: eadings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#159957" }} !default;
 $body-text-color: #98abb3 !default;
 $body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #d5dadd !default;
