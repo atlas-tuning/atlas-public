@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "jekyll", '~> 3.8', '>= 3.8.6'
   s.add_runtime_dependency "jekyll-target-blank", '>= 0'
   s.add_runtime_dependency 'jekyll-feed', '>= 0'
-  # s.add_runtime_dependency 'jekyll-seo-tag', '~> 2.0'
+  s.add_runtime_dependency 'jekyll-seo-tag', '~> 2.0'
   s.add_development_dependency 'html-proofer', '~> 3.0'
   s.add_development_dependency 'rubocop', '~> 0.50'
   s.add_development_dependency 'w3c_validators', '~> 1.3'
