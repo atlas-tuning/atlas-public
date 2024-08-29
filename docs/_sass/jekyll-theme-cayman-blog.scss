@@ -111,8 +111,8 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url(/assets/banner.JPG);
-  background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 
   @include large {
     padding: 5rem 6rem;
