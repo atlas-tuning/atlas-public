@@ -110,7 +110,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url(/assets/banner.JPG);
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 100%), url(/assets/banner.JPG);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -128,22 +128,6 @@ a {
   @include small {
     padding: 2rem 1rem;
   }
-}
-
-.page-header::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 100%);
-  z-index: 1;
-}
-
-.page-header > * {
-  position: relative;
-  z-index: 2;
 }
 
 .project-name {
