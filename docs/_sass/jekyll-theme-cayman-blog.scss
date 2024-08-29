@@ -113,6 +113,7 @@ a {
   background-image: url(/assets/banner.JPG);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: contain;
 
   @include large {
     padding: 5rem 6rem;
