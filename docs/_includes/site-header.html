@@ -5,7 +5,7 @@
     {% assign page_refs = site.header_page_refs | default: default_refs %}
 
     {% if page.layout != 'home' %}
-      <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
+      <p style="text-align:center;"><a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a></p>
     {% endif %}
 
     {% if page_refs %}
