@@ -12,7 +12,7 @@ We anticipate that this beta phase will last two weeks (September 1st through th
 Beta participation is subject to approval and is limited to individuals who meet the following criteria:
 
 * Owners of a Subaru WRX, model year 2022 or 2023, equipped with either a WRX (TY75) or STI (TY85) 6-speed manual transmission
-* Owners of a [supported OpenPort adapter](https://atlasopensource.org/support.html)
+* Owners of a [supported OpenPort adapter](https://motorsportsresearch.org/support.html)
 * Individuals comfortable with ECU flashing, engine modification, calibration tweaks and adjusting engine sensor calibrations, fueling, airflow and other associated tables and values
 * Individuals willing to provide frequent and detailed feedback
 
