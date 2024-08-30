@@ -1,7 +1,7 @@
 ---
 redirect: https://discord.gg/tbWJshQvqR
 layout: redirect
-title: Discord Community
+title: Discord
 ref: discord
 order: 4
 ---
