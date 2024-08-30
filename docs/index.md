@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Atlas Tuning
 ref: home
 carousels:
   - images: 
