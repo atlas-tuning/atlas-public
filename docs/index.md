@@ -12,7 +12,23 @@ carousels:
     - image: /assets/atlas7.png
 ---
 
+## Atlas Open Tuning Platform
 Atlas is a free and open ECU calibration suite designed for performance tuning and reverse-engineering of modern vehicles. This project started as an effort to better understand the behavior of the 2022 WRX ECU but, as there is a lack of free and maintained tooling for software engineers and auto enthusiasts to gain first-party access to their ECUs, has since pivoted towards adopting a much broader feature set that encourages modern ECU research, recalibration and modification across increasingly diverse make and model lineups.
+
+##Latest Update
+
+  <ul class="post-list">
+    {% for post in site.posts limit:1 %}
+      <li>
+        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+        </h2>
+        {{ post.excerpt | markdownify | truncatewords: 30 }}
+      </li>
+    {% endfor %}
+  </ul>
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
