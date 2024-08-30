@@ -9,10 +9,10 @@ During this end-user evaluation stage, we will be working closely with a small g
 
 We anticipate that this beta phase will last two weeks (September 1st through the 14th) but may extend this period, depending on user feedback, if additional time is assessed to implement any potential changes.
 
-Beta participation is subject to approval and is limited to individuals who meet the following requirements:
+Beta participation is subject to approval and is limited to individuals who meet the following criteria:
 
 * Owners of a Subaru WRX, model year 2022 or 2023, equipped with either a WRX (TY75) or STI (TY85) 6-speed manual transmission
-* Owners of a [supported](https://atlasopensource.org/support.html) OpenPort or STN adapter
+* Owners of a [supported OpenPort adapter](https://atlasopensource.org/support.html)
 * Individuals comfortable with ECU flashing, engine modification, calibration tweaks and adjusting engine sensor calibrations, fueling, airflow and other associated tables and values
 * Individuals willing to provide frequent and detailed feedback
 
