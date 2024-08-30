@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Atlas Tuning
+title: North American Motorsports Research
 ref: home
 carousels:
   - images: 
