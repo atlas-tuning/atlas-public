@@ -4,7 +4,7 @@ title: FAQ
 tagline: Frequently Asked Questions
 permalink: /faq.html
 ref: faq
-order: 3
+order: 2
 ---
 
 ### Where can I download Atlas?
