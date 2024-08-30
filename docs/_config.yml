@@ -1,5 +1,5 @@
-title: Atlas Tuning
-description: Atlas is a free and open performance tuning and ECU reverse-engineering platform built from the ground up for open-source adjustment of modern vehicles.
+title: North American Motorsports Research
+description: Pioneering free and open performance tuning and ECU reverse-engineering for modern vehicles.
 show_downloads: false
 show_ots: false
 google_analytics:
@@ -11,7 +11,7 @@ github:
   linux_url: https://github.com/atlas-tuning/atlas-public/releases/latest/download/Atlas_Linux.AppImage
   other_url: https://github.com/atlas-tuning/atlas-public/releases/latest
 
-url: "https://atlasopensource.org" 
+url: "https://motorsportsresearch.org" 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
