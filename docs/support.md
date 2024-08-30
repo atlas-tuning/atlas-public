@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supported
+title: Support Info
 tagline: Detailed adapter and vehicle support information
 permalink: /support.html
 ref: support
