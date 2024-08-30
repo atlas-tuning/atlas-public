@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: News
 tagline: Project news and development updates
 permalink: /news.html
