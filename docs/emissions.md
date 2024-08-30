@@ -4,7 +4,7 @@ title: Emissions Statement
 tagline: Atlas General Disclaimer and Emissions Statement
 permalink: /emissions.html
 ref: emissions
-order: 2
+order: 3
 ---
 
 ## Warnings
