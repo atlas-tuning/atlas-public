@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emissions and Warnings
+title: Emissions Statement
 tagline: Atlas General Disclaimer and Emissions Statement
 permalink: /emissions.html
 ref: emissions
