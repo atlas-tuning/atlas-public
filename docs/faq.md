@@ -8,7 +8,7 @@ order: 3
 ---
 
 ### Where can I download Atlas?
-* Atlas is undergoing [limited beta testing}(https://atlasopensource.org/2024/08/30/limited-beta.html) and is not presently available for download.
+* Atlas is undergoing [limited beta testing](https://atlasopensource.org/2024/08/30/limited-beta.html) and is not presently available for download.
 
 ### How much does Atlas cost?
 * Atlas is free software. 
