@@ -147,24 +147,6 @@ a {
   }
 }
 
-.project-name-logo {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-  font-family: "Racing Sans One", sans-serif;
-
-  @include large {
-    font-size: 3.25rem;
-  }
-
-  @include medium {
-    font-size: 2.25rem;
-  }
-
-  @include small {
-    font-size: 1.75rem;
-  }
-}
-
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
@@ -275,6 +257,15 @@ a {
     border-radius: 0.3rem;
   }
 
+  logo {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-family: "Racing Sans One", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: $section-headings-color;
+  }
+  
   pre {
     padding: 0.8rem;
     margin-top: 0;
