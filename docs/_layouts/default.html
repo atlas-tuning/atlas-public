@@ -12,7 +12,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
     {% if page.title %}
-    {% assign page-title = page.title | escape %}
+    {% assign page-title = 'NAMR - ' | append: page.title | escape %}
     {% else %}
     {% assign page-title = site.title | escape %}
     {% endif %}
