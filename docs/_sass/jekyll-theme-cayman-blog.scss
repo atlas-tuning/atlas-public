@@ -1,7 +1,7 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75,300..800&family=Racing+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Racing+Sans+One&display=swap');
 @import "blog";
 
 @mixin large {
@@ -131,9 +131,23 @@ a {
 }
 
 .project-logo {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
   font-family: "Racing Sans One", sans-serif;
   font-weight: 400;
   font-style: normal;
+
+  @include large {
+    font-size: 3.25rem;
+  }
+
+  @include medium {
+    font-size: 2.25rem;
+  }
+
+  @include small {
+    font-size: 1.75rem;
+  }
 }
 
 .project-name {
