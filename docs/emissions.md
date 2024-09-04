@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emissions Statement
+title: Emissions
 tagline: General Disclaimer and Emissions Statement
 permalink: /emissions.html
 ref: emissions
