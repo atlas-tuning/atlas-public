@@ -16,8 +16,12 @@
     {% else %}
     {% assign page-title = site.title | escape %}
     {% endif %}
-    
+
+    {% if page.layout == 'home' %}
+    <title>{{ site-title }}</title>
+    {% else %}
     <title>NAMR - {{ page-title }}</title>
+    {% endif %}
     
     {% if site.plugins contains "jekyll-seo-tag" %}
     <!-- jekyll-seo-tag -->
