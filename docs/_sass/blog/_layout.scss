@@ -26,6 +26,24 @@
   }
 }
 
+.site-title-logo {
+  @include relative-font-size(1.4);
+  font-family: "Racing Sans One", sans-serif;
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  text-decoration: none;
+
+  &,
+  &:visited,
+  &:hover {
+    color: $text-color;
+    text-decoration: none;
+  }
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
