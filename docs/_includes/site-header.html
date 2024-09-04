@@ -4,9 +4,9 @@
     {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
 
-    <!-- {% if page.layout != 'home' %} -->
-      <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
-    <!-- {% endif %} -->
+    {% if page.layout != 'home' %}
+      <a class="project-logo" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
+    {% endif %}
 
     {% if page_refs %}
       <nav class="site-nav">
