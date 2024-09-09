@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emissions
-tagline: General Disclaimer and Emissions Statement
+tagline: Emissions statement and disclaimer
 permalink: /emissions.html
 ref: emissions
 order: 3
@@ -24,5 +24,9 @@ order: 3
 
 * Non-compliance with these legal requirements could jeopardize the existence of Atlas and other similar projects. North American Motorsports Research is dedicated to enabling vehicle enthusiasts to tune their vehicles responsibly, ensuring both environmental responsibility and full legal compliance. Users are urged to familiarize themselves with and adhere to all relevant emissions regulations to support the continued success and legality of Atlas.
 * By using Atlas, you agree to comply with all applicable emissions regulations and acknowledge that any illegal modifications to emissions-controlled components are strictly prohibited.
+
+## Transparency
+
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fatlas-tuning%2Fatlas-public%2Fblob%2Fmain%2Fdocs%2Fcanary.txt&style=default&type=code&showBorder=on&showLineNumbers=off&showFileMeta=off&showCopy=off"></script>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
