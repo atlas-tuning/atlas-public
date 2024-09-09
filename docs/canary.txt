@@ -1,0 +1,12 @@
+As of September 2024, North American Motorsports Research has not been served 
+any warrants, received any legal orders, court-issued subpoenas, cease and 
+desist notices or gag orders from any government entity that would restrict 
+distribution or compel modifications to the functions or features of our software. 
+
+We have not been subject to any enforcement actions, and our operations have not 
+been otherwise limited or restricted by any court or government body.
+
+This canary will continue to be available at https://motorsportsresearch.org/canary.txt 
+as long as it is valid. For more information about warrant canaries, you can read 
+more from the EFF here:
+https://www.eff.org/deeplinks/2014/04/warrant-canary-faq.
