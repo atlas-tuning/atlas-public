@@ -27,6 +27,6 @@ order: 3
 
 ## Transparency
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fatlas-tuning%2Fatlas-public%2Fblob%2Fmain%2Fdocs%2Fcanary.txt&style=default&type=code&showBorder=on&showLineNumbers=off&showFileMeta=off&showCopy=off"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fatlas-tuning%2Fatlas-public%2Fblob%2Fmain%2Fdocs%2Fcanary.txt&style=tokyo-night-light&type=code&showBorder=on&showLineNumbers=on&showFileMeta=off&showCopy=off"></script>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
