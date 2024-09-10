@@ -9,4 +9,4 @@ been otherwise limited or restricted by any court or government body.
 This canary will continue to be available at https://motorsportsresearch.org/canary.txt 
 as long as it is valid. For more information about warrant canaries, you can read 
 more from the EFF here:
-https://www.eff.org/deeplinks/2014/04/warrant-canary-faq.
+https://www.eff.org/deeplinks/2014/04/warrant-canary-faq
