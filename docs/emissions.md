@@ -8,15 +8,16 @@ order: 3
 ---
 
 ## Warnings
-* As with all motorsports related activities, modification and recalibration of the Electronic Control Unit (ECU) carries inherent risk. You can render permanently inoperable or "brick" an ECU by improperly instructing it to perform certain routines or flashing incompatible calibrations. North American Motorsports Research (NAMR) recommends that users consult with a professional mechanic or experienced tuner before making any modifications or adjustments to the ECU calibration (commonly known as a "tune") of a target vehicle. Use of Atlas and other NAMR software packages is entirely at the user's own risk.
-* Improper modification of or adjustments to the calibration (such as ignition timing, mass airflow sensor calibration, turbocharger wastegate duty cycle, rev limit, etc.) which exceed the manufacturer design can cause catastrophic damage to a vehicle's engine. NAMR is not liable and will not be held responsible for any damage to the engine or other vehicle components that may result from the use of these tools. Creation of a new, or modification of an existing, ECU calibration should only be attempted by experienced users.
+* North American Motorsports Research (NAMR) recommends that users consult with a professional mechanic or experienced tuner before making any modifications or adjustments to the ECU calibration (commonly known as a "tune") of a target vehicle. Use of Atlas and other NAMR software packages is entirely at the user's own risk.
+* As with all motorsports related activities, modification and recalibration of the Electronic Control Unit (ECU) carries inherent risk. You can render permanently inoperable or "brick" an ECU by improperly instructing it to perform certain routines or flashing incompatible calibrations.
+* Improper modification of or adjustments to the calibration (such as ignition timing, mass airflow sensor calibration, turbocharger wastegate duty cycle, rev limit, etc.) which exceed the manufacturer design and safety limitations can cause catastrophic damage to a vehicle's engine. NAMR is not liable and will not be held responsible for any damage to the engine or other vehicle components that may result from the use of these tools. Creation of a new, or modification of an existing, ECU calibration should only be attempted by experienced users.
 
 ## Emissions
-* In many cases, ECU access can lead to exposing calibrations for regulated systems such as emissions-related features of a vehicle. North American Motorsports Research will not support, knowingly facilitate, or provide definitions that can disable, bypass or suppress the function of regulated emissions control systems, functions or design elements.
-* The Atlas software package is intended for the legal and responsible modification of a vehicle’s ECU calibration. It is essential that users of Atlas adhere strictly to emissions regulations to ensure compliance with all applicable laws and maintain the viability of this community resource.
+* In many cases, ECU access can lead to exposing calibrations for regulated emissions design elements and systems of a vehicle. North American Motorsports Research will not support, knowingly facilitate, or provide definitions that can disable, bypass or suppress the function of regulated emissions control systems, functions or design elements.
+* The Atlas software package is provided licensed for the legal and responsible modification of a vehicle’s ECU calibration. It is essential that users of Atlas adhere strictly to emissions regulations to ensure compliance with all applicable laws and maintain the viability of this community resource.
 * North American Motorsports Research does not and will not condone, support, or facilitate the removal or bypass of any regulated emissions component of a target vehicle. This includes, but is not limited to, components, subsystems and design elements such as:
 
-> - Emissions Related Diagnostic Trouble Codes (DTC)
+> - Emissions Related Diagnostic Trouble Codes (DTCs)
 > - Exhaust Gas Recirculation (EGR) Systems
 > - Tumble Generator Valves (TGVs)
 > - Three-way Catalysts (TWCs)
