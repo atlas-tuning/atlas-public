@@ -3,9 +3,9 @@ layout: post
 title: "Last gen WRX support, project update and transparency"
 ---
 
-Support for the VA was always one of our most frequently asked questions and, until today, we've unfortunately had to direct our full attention to the current generation WRX.
-
 While Atlas is still [in beta]({{ '/2024/08/30/limited-beta.html' | absolute_url }}) for the USDM 2.4L VB WRX (MY2022~current) with WRX and STI gearboxes, we're excited to announce we've made signifigant progress towards fully supporting the last generation, 2.0L VA chassis, WRX (MY2015~2021)!
+
+Support for the VA was always one of our most frequently asked questions and, until today, we've unfortunately had to direct our full attention to the current generation WRX.
 
 Atlas is currently being tested on a VA WRX and we're happy to report that Atlas will launch with last generation WRX support!
 
