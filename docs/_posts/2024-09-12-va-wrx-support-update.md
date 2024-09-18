@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Last gen WRX support, project updates and transparency"
+title: "Last gen WRX support, project update and transparency"
 ---
-
-## VA WRX Support
 
 Support for the VA was always one of our most frequently asked questions and, until today, we've unfortunately had to direct our full attention to the current generation WRX.
 
