@@ -9,11 +9,7 @@ Support for the VA was always one of our most frequently asked questions and, un
 
 Atlas is currently being tested on a VA WRX and we're happy to report that Atlas will launch with last generation WRX support!
 
-## Beta Status
-
 After some valuable feedback from our closed test group, we've elected to extend the duration of the [closed beta]({{ '/2024/08/30/limited-beta.html' | absolute_url }}). This will unfortunately delay public release until we can incorporate changes based on user feedback. At this time we cannot make an estimate as to a release date. We appreciate your patience and understanding for this unavoidable delay and are working hard to bring you a truly excellent software solution.
-
-## Transparency Report
 
 North American Motorsports Research values transparency and openness. This is one of the core principles that inspired, and has continued to drive, the development of Atlas as free software. We don't know what the future may bring and feel that it's important to clearly communicate the position and status of the project. 
 
