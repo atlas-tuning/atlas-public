@@ -18,22 +18,6 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-## Latest Project Update
-
-<ul class="post-list">
-   {% for post in site.posts limit:1 %}
-     <li>
-       {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-       <span class="post-meta">{{ post.date | date: date_format }}</span>
-       <h2>
-         <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-       </h2>
-       {{ post.excerpt | markdownify | truncatewords: 25 }}
-     </li>
-   {% endfor %}
-</ul>
-
-
 ## Features
 ### Comprehensive Tuning Suite:
 * Enables in-depth ECU research and to full recalibration capabilities through an automatic ROM analysis and table match function
