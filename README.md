@@ -5,11 +5,17 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 ![Atlas 2024.1](https://github.com/atlas-tuning/atlas-public/blob/main/java/screenshots/atlas2.png?raw=true "Atlas 2024.1 running on MacOS")
 
 ## Links
-### [News](https://motorsportsresearch.org/news.html)
-### [Support Info](https://motorsportsresearch.org/support.html)
-### [FAQ](https://motorsportsresearch.org/faq.html)
-### [Emissions](https://motorsportsresearch.org/emissions.html)
-### [Discord](https://motorsportsresearch.org/discord.html)
+### [Homepage](https://motorsportsresearch.org)
+#### [News](https://motorsportsresearch.org/news)
+Latest project updates and news
+#### [Support Info](https://motorsportsresearch.org/support)
+Detailed vehicle and adapter support information
+#### [FAQ](https://motorsportsresearch.org/faq)
+Frequenty asked questions and general information
+#### [Emissions](https://motorsportsresearch.org/emissions)
+Our position on tuning and emissions regulation compliance
+#### [Discord](https://motorsportsresearch.org/discord)
+Join our Discord community!
 
 ## Features
 ### Comprehensive Tuning Suite:
@@ -37,5 +43,17 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 * Enables a consistent experience across model years and variants with an intelligent calibration cross-application function
 
 ## Get Involved
-Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://motorsportsresearch.org/discord.html)!
+Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://motorsportsresearch.org/discord)!
  
+## Emissions
+North American Motorsports Research does not and will not condone, support, or facilitate the removal or bypass of any regulated emissions component of a target vehicle. This includes, but is not limited to, components, subsystems and design elements such as:
+
+> - Emissions Related Diagnostic Trouble Codes (DTCs)
+> - Exhaust Gas Recirculation (EGR) Systems
+> - Tumble Generator Valves (TGVs)
+> - Three-way Catalysts (TWCs)
+> - Oxygen (O2) Sensors
+> - Exhaust Gas Temperature (EGT) Sensors
+> - Evaporative Emission System
+
+For more detailed information regarding our position on emissions and tuning, please review our [emissions statement](https://motorsportsresearch.org/emissions).
