@@ -21,6 +21,7 @@ theme:
 plugins:
   - jekyll-target-blank
   - jekyll-feed
+  - jekyll-seo-tag
 target-blank:
     rel: nofollow
 header_page_refs: ['news', 'support', 'faq', 'emissions', 'discord']
