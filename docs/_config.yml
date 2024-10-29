@@ -18,6 +18,8 @@ url: "https://motorsportsresearch.org"
 cayman-blog:
   date_format: "%b %-d, %Y"
 theme: 
+instagram:
+  username: namotorsportsresearch
 plugins:
   - jekyll-target-blank
   - jekyll-feed
