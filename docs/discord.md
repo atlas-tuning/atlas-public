@@ -1,5 +1,5 @@
 ---
-redirect: https://discord.gg/tbWJshQvqR
+redirect: https://discord.gg/{{ site.socials.discord }}
 layout: redirect
 title: Discord
 ref: discord
