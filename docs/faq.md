@@ -36,6 +36,3 @@ order: 2
 
 ### Can I turn off my check engine light with Atlas?
 * Suppression of non-emissions related diagnostic trouble codes is fully supported. Disabling or tampering with emissions related systems (to include DTCs) is explicitly not supported. Please see our [emissions statement]({{ '/emissions.html' | absolute_url }}) for more information.
-
-
-[Go to the Home Page]({{ '/' | absolute_url }})
