@@ -14,5 +14,3 @@ Simply start your vehicle, open the table you want to edit, and change away. You
 **Atlas Open Tuning Platform**
 
 Atlas is a different breed of calibration suite: it is now capable of dynamically patching your ROM right before you flash to enable dynamically-compiled features with our second-to-none, in-house compiler and assembler that ships with the software. This architecture opens a plethora of doors for us at NAMR to provide even more groundbreaking features in the future, so stay tuned!
-
-For the most up to date device support information, please check our [support page]({{ '/support.html' | absolute_url }}).
