@@ -23,6 +23,7 @@ socials:
   discord: tbWJshQvqR
 #  youtube: 
 #  facebook:
+donations: true
 plugins:
   - jekyll-target-blank
   - jekyll-feed
