@@ -10,6 +10,9 @@ order: 2
 ### Where can I download Atlas?
 * Atlas is in [closed beta]({{ '/2024/08/30/limited-beta.html' | absolute_url }}) and is not presently available for download.
 
+### How can I get involved?
+* NAMR has a thriving [Discord community](https://discord.gg/{{ site.socials.discord }}). Join the fun today!
+
 ### How much does Atlas cost?
 * Atlas is free software. 
 
