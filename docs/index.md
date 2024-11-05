@@ -59,7 +59,7 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 * Enables a consistent experience across model years and variants with an intelligent calibration cross-application function
 
 ## Get Involved
-Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://discord.gg/{{ site.socials.discord }} or donating today!
+Atlas is in active development. If you're interested in getting involved in the effort to make ECU reverse engineering and recalibrating modern vehicles free and accessible, consider dropping by the Atlas [Discord server](https://discord.gg/{{ site.socials.discord }}) or donating today!
 
 <style>.pp-VVVRJ3N3TZ79E{text-align:center;border:none;border-radius:1.5rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#f57900;color:#000000;font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
 <form action="https://www.paypal.com/ncp/payment/VVVRJ3N3TZ79E" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
