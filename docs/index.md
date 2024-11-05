@@ -63,7 +63,5 @@ Atlas is in active development. If you're interested in getting involved in the 
 
 {% if site.donations == true %}
 ## Donate
-<div style="text-align:center;">
   {% include donate.html %}
-</div>
 {% endif %}
