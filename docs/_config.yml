@@ -21,6 +21,8 @@ theme:
 socials:
   instagram: namotorsportsresearch
   discord: tbWJshQvqR
+#  youtube: 
+#  facebook:
 plugins:
   - jekyll-target-blank
   - jekyll-feed
