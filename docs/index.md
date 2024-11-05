@@ -21,7 +21,6 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
 ## Latest Project Update
 
 <ul class="post-list">
-    
     {% for post in site.posts limit:1 %}
       <li>
         {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
@@ -29,11 +28,9 @@ Atlas is a free and open ECU calibration suite designed for performance tuning a
         <h2>
           <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h2>
-        {{ post.excerpt | markdownify | truncatewords: 30 }}
-        
+        {{ post.excerpt | strip_html | truncatewords: 30 }}
       </li>
     {% endfor %}
-    
 </ul>
 
 ## Features
