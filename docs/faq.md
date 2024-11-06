@@ -14,7 +14,7 @@ order: 2
 * NAMR has a thriving [Discord community](https://discord.gg/{{ site.socials.discord }}). Join the fun today!
 
 ### How much does Atlas cost?
-* Atlas is free software. (We do accept [donations](https://www.paypal.com/ncp/payment/{{ site.paypal }}) though)
+* Atlas is free software. (We do accept [donations](https://www.paypal.com/ncp/payment/{{ site.paypal.link }}) though)
 
 ### What does Atlas run on?
 * Atlas is a Java based, multiplatform application, currently being developed for Microsoft Windows, Apple Mac OS X and various flavors of Linux including SteamOS, Arch and Debian. 
