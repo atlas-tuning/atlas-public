@@ -32,4 +32,4 @@ plugins:
   - jekyll-feed
 target-blank:
     rel: nofollow
-header_page_refs: ['news', 'support', 'faq', 'emissions', 'docs', 'discord']
+header_page_refs: ['news', 'support', 'docs', 'faq', 'emissions', 'discord']
