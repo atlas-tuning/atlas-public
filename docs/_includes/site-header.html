@@ -4,8 +4,10 @@
     {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
 
+    <div class="site-title-logo">
     <a class="site-title-logo" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
-
+    </div>
+    
     {% if page_refs %}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -19,7 +21,7 @@
           </span>
         </label>
 
-        <div class="trigger" style="text-align: center;">
+        <div class="trigger">
           {% for ref in page_refs %}
             {% assign my_page = site.pages | where: "ref", ref | first %}
             {% if my_page.title %}
