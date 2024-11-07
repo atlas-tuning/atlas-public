@@ -1,5 +1,5 @@
 ---
-redirect: https://http://docs.motorsportsresearch.org/
+redirect: https://docs.motorsportsresearch.org/
 layout: redirect
 title: Docs
 ref: docs
