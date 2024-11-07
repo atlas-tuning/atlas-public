@@ -23,7 +23,7 @@ order: 2
 * Atlas is currently in a [limited Beta]({{ '/2024/08/30/limited-beta.html' | absolute_url }}). Rigorous testing accompanied with thorough pre-release documentation needs to be completed before we can publish a general release. That said, we feel that early to mid Autumn 2024 is a realistic goal. 
 
 ### Does Atlas support the VA WRX or STI? (2015-2021)
-* Although Atlas originally began as a tool intended to support the VB (2022+) chassis WRX, it’s scope has recently expanded and development is currently in progress for the FA20 powered VA chassis (2015-2021) WRX. More information can be found on our [support page]({{ '/support.html' | absolute_url }}). 
+* Yes! Although Atlas originally began as a tool intended to support the VB (2022+) chassis WRX, it’s scope has recently expanded and development is currently in progress for the FA20 powered VA chassis (2015-2021) WRX. More information can be found on our [support page]({{ '/support.html' | absolute_url }}). 
 
 ### What do I need to connect Atlas to my car?
 * Atlas fully supports the Tactrix OpenPort 2.0 and STN based adapters such as the OBDLink MX+ with a built-in application driver. With some restrictions, ELM327 based devices also support flashing and datalogging. More information and a detailed list of supported devices can be found on our [support page]({{ '/support.html' | absolute_url }}). 
