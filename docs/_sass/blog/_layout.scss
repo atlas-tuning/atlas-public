@@ -33,7 +33,8 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  display: block;
+  text-align: center;
   text-decoration: none;
 
   &,
