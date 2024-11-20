@@ -7,6 +7,21 @@ ref: support
 order: 1
 ---
 
+## Supported Vehicles
+
+If a vehicle is supported, it may not be complete. Please report any missing tables or desired exposed tables to our GitHub project as a new [issue](https://github.com/atlas-tuning/atlas-public/issue). 
+
+| Make   | Model<br>(Chassis) | Year      | Status |
+|--------|--------------------|-----------|--------|
+| Subaru | WRX (VB)     | 2024+      | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
+| Subaru | WRX (VB)     | 2022-2023      | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| Subaru | WRX (VA)     | 2015-2021 | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| Subaru | WRX STi (VA) | 2015-2021 | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
+| Subaru | BRZ (ZD8) | 2021+     | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
+| Toyota | GR86 (ZN8) | 2021+     | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
+
+A more detailed breakdown of supported vehicles by transmission type and domestic market can be found on the [vehicle support documentation page]({{ site.links.atlasdocs }}/page/supported-vehicles).
+
 ## Supported Adapters
 
 Atlas supports the following adapters and hardware through custom cross-platform device drivers that are built directly into Atlas. The listed adapters should work out of the box with no additional configuration required.
@@ -23,21 +38,6 @@ Atlas supports the following adapters and hardware through custom cross-platform
 More detailed support information such as operating system compatibility, adapter chipset and connection notes can be found on the [adapter support documentation page]({{ site.links.atlasdocs }}/page/supported-adapters).
 
 NAMR is always interested in expanding support to new adapters and hardware. If you have a device you'd like to see supported and isn't listed here, please check our current [hardware requests](https://github.com/atlas-tuning/atlas-public/labels/hardware%20request) on GitHub and see if a ticket already exists for the device in question. If one doesn't exist yet, consider opening a new [adapter or hardware request](https://github.com/atlas-tuning/atlas-public/issues/new?labels=hardware%20request&template=adapter_request.md&title=).
-
-## Supported Vehicles
-
-If a vehicle is supported, it may not be complete. Please report any missing tables or desired exposed tables to our GitHub project as a new [issue](https://github.com/atlas-tuning/atlas-public/issue). 
-
-| Make   | Model<br>(Chassis) | Year      | Status |
-|--------|--------------------|-----------|--------|
-| Subaru | WRX (VB)     | 2024+      | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
-| Subaru | WRX (VB)     | 2022-2023      | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
-| Subaru | WRX (VA)     | 2015-2021 | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
-| Subaru | WRX STi (VA) | 2015-2021 | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
-| Subaru | BRZ (ZD8) | 2021+     | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
-| Toyota | GR86 (ZN8) | 2021+     | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
-
-A more detailed breakdown of supported vehicles by transmission type and domestic market can be found on the [vehicle support documentation page]({{ site.links.atlasdocs }}/page/supported-vehicles).
 
 ## Issues/Troubleshooting
 
