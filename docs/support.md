@@ -24,18 +24,19 @@ NAMR is always interested in expanding support to new adapters and hardware. If 
 
 ## Supported Vehicles
 
-If a vehicle is supported, it may not be complete. Please report any missing tables or desired exposed tables to our GitHub project as a new [issue](https://github.com/atlas-tuning/atlas/issue).
+If a vehicle is supported, it may not be complete. Please report any missing tables or desired exposed tables to our GitHub project as a new [issue](https://github.com/atlas-tuning/atlas-public/issue). 
 
-| Make   | Model<br>(Chassis) | Year      | Varient | Notes |
-|--------|--------------------|-----------|---------|-------|
-| Subaru | WRX (VB)     | 2024      | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label=USDM%20-%206MT&color=blue)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=AUDM%20-%206MT&color=purple)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=USDM%20-%20CVT&color=purple)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=AUDM%20-%20CVT&color=purple) |  |
-| Subaru | WRX (VB)     | 2022-2023      | ![Supported](https://flat.badgen.net/badge/icon/Supported?label=USDM%20-%206MT&color=green)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=AUDM%20-%206MT&color=purple)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=USDM%20-%20CVT&color=purple)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=AUDM%20-%20CVT&color=purple) |  |
-| Subaru | WRX (VA)     | 2015-2021 | ![Supported](https://flat.badgen.net/badge/icon/Supported?label=USDM%20-%206MT&color=green)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=USDM%20-%20CVT&color=purple) | Tested on MY2018 |
-| Subaru | WRX STi (VA) | 2015-2021 | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label=USDM%20-%206MT&color=blue) | |
-| Subaru<br>Toyota | BRZ (ZD8)<br>GR86 (ZN8) | 2022+     | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label=USDM%20-%206MT&color=blue)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=USDM%20-%206AT&color=purple) |  |
-| Toyota | NXP-based | 2022+     | ![Planned](https://flat.badgen.net/badge/icon/Planned?label=5/6MT&color=purple)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=Auto&color=purple) |  |
-| Honda  | NXP-based | 2022+     | ![Planned](https://flat.badgen.net/badge/icon/Planned?label=5/6MT&color=purple)<br>![Planned](https://flat.badgen.net/badge/icon/Planned?label=Auto&color=purple) |  |
+A more detailed breakdown of supported vehicles by transmission type and domestic market can be found on the [vehicle support documentation page]({{ site.links.atlasdocs }}/page/supported-vehicles).
+
+| Make   | Model<br>(Chassis) | Year      | Varient |
+|--------|--------------------|-----------|---------|
+| Subaru | WRX (VB)     | 2024+      | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
+| Subaru | WRX (VB)     | 2022-2023      | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| Subaru | WRX (VA)     | 2015-2021 | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| Subaru | WRX STi (VA) | 2015-2021 | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
+| Subaru | BRZ (ZD8) | 2021+     | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
+| Toyota | GR86 (ZN8) | 2021+     | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
 
 ## Issues/Troubleshooting
 
-Atlas is a relatively new software project, and while we strive to provide an easy to use and trouble-free product, errors may still arise. In this event, users are urged to check our currently [known issues](https://github.com/atlas-tuning/atlas/labels/bug). If this is a new issue, please [open a support ticket](https://github.com/atlas-tuning/atlas-public/issues/new?labels=bug&template=bug_report.md) on our GitHub or drop by the [NAMR Atlas Community on Discord](https://discord.gg/{{ site.socials.discord }}).
+Atlas is a relatively new software project, and while we strive to provide an easy to use and trouble-free product, errors may still arise. In this event, users are urged to check our currently [known issues](https://github.com/atlas-tuning/atlas-public/labels/bug). If this is a new issue, please [open a support ticket](https://github.com/atlas-tuning/atlas-public/issues/new?labels=bug&template=bug_report.md) on our GitHub or drop by the [NAMR Atlas Community on Discord](https://discord.gg/{{ site.socials.discord }}).
