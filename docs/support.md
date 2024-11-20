@@ -11,14 +11,14 @@ order: 1
 
 Atlas supports the following adapters and hardware through custom cross-platform device drivers that are built directly into Atlas. The listed adapters should work out of the box with no additional configuration required.
 
-| Device               | Platform           | Connection | Flash Speed<br>(Average) |
-|----------------------|--------------------|------------|--------------------------|
-| [Tactrix OpenPort 2.0](https://www.tactrix.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=17&category_id=6&option=com_virtuemart&Itemid=53&redirected=1&Itemid=53) | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) | Wired<br>(USB-Mini B) | 3~5 minutes |
-| [OBDLink MX+](https://www.obdlink.com/products/obdlink-mxp/) | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) | Wireless<br>(Bluetooth 3.0) | 15~16 minutes |
-| [OBDLink LX](https://www.obdlink.com/products/obdlink-lx/) | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) | Wireless<br>(Bluetooth 3.0) | 15~16 minutes |
-| [OBDLink EX](https://www.obdlink.com/products/obdlink-ex/) | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) | Wired<br>(USB-A) | 15~16 minutes |
-| [OBDLink SX](https://www.obdlink.com/products/obdlink-sx/) | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) | Wired<br>(USB-A) | 15~16 minutes |
-| [Veepeak OBDCheck BLE+](https://www.amazon.com/dp/B076XVQMVS) | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) | Wireless<br>(Bluetooth LE) | 30~60 minutes |
+| Device               | Connection | Flash Speed<br>(Average) | Status           |
+|----------------------|------------|--------------------------|------------------|
+| [Tactrix OpenPort 2.0](https://www.tactrix.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=17&category_id=6&option=com_virtuemart&Itemid=53&redirected=1&Itemid=53) | Wired<br>(USB-Mini B) | 3~5 minutes | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| [OBDLink MX+](https://www.obdlink.com/products/obdlink-mxp/) | Wireless<br>(Bluetooth 3.0) | 15~16 minutes | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| [OBDLink LX](https://www.obdlink.com/products/obdlink-lx/) | Wireless<br>(Bluetooth 3.0) | 15~16 minutes | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| [OBDLink EX](https://www.obdlink.com/products/obdlink-ex/) | Wired<br>(USB-A) | 15~16 minutes | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| [OBDLink SX](https://www.obdlink.com/products/obdlink-sx/) | Wired<br>(USB-A) | 15~16 minutes | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
+| [Veepeak OBDCheck BLE+](https://www.amazon.com/dp/B076XVQMVS) | Wireless<br>(Bluetooth LE) | 30~60 minutes | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
 
 More detailed support information such as operating system compatibility, adapter chipset and connection notes can be found on the [adapter support documentation page]({{ site.links.atlasdocs }}/page/supported-adapters).
 
@@ -28,8 +28,8 @@ NAMR is always interested in expanding support to new adapters and hardware. If 
 
 If a vehicle is supported, it may not be complete. Please report any missing tables or desired exposed tables to our GitHub project as a new [issue](https://github.com/atlas-tuning/atlas-public/issue). 
 
-| Make   | Model<br>(Chassis) | Year      | Varient |
-|--------|--------------------|-----------|---------|
+| Make   | Model<br>(Chassis) | Year      | Status |
+|--------|--------------------|-----------|--------|
 | Subaru | WRX (VB)     | 2024+      | ![In Progress](https://flat.badgen.net/badge/icon/In%20Progress?label&color=blue) |
 | Subaru | WRX (VB)     | 2022-2023      | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
 | Subaru | WRX (VA)     | 2015-2021 | ![Supported](https://flat.badgen.net/badge/icon/Supported?label&color=green) |
