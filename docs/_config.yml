@@ -27,6 +27,8 @@ paypal:
   donations: true
   embed: VW2BTAC4JBEJ2
   link: VVVRJ3N3TZ79E
+links:
+  atlasdocs: https://docs.motorsportsresearch.org/books/atlas-documentation
 plugins:
   - jekyll-target-blank
   - jekyll-feed
