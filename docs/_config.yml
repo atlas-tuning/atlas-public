@@ -40,4 +40,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/banner.JPG
+      image: /assets/opengraph.jpg
