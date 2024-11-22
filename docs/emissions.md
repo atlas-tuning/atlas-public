@@ -36,7 +36,7 @@ order: 3
 * By using Atlas, you agree to comply with all applicable emissions regulations and acknowledge that any illegal modifications to emissions-controlled components are strictly prohibited.
 
 ## California Residents
-* The Atlas tuning platform flash functionality will not function on vehicle that is located in or registered in the state of California. Atlas and other North American Motorsports Research software products are not supported in the state of California. 
+* The Atlas tuning platform flash functionality will not operate on any vehicle that is located in or registered in the state of California. Atlas and other North American Motorsports Research software products are not supported in the state of California. 
 
 ## Transparency
 
