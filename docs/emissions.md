@@ -35,6 +35,9 @@ order: 3
 * Non-compliance with these legal requirements could jeopardize the existence of Atlas and other similar projects. North American Motorsports Research is dedicated to enabling vehicle enthusiasts to tune their vehicles responsibly, ensuring both environmental responsibility and full legal compliance. Users are urged to familiarize themselves with and adhere to all relevant emissions regulations to support the continued success and legality of Atlas.
 * By using Atlas, you agree to comply with all applicable emissions regulations and acknowledge that any illegal modifications to emissions-controlled components are strictly prohibited.
 
+## California Residents
+* The Atlas tuning platform flash functionality will not function on vehicle that is located in or registered in the state of California. Atlas and other North American Motorsports Research software products are not supported in the state of California. 
+
 ## Transparency
 
 <iframe frameborder="0" scrolling="no" style="width:100%; height:292px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2Fatlas-tuning%2Fatlas-public%2Fblob%2Fmain%2Fdocs%2Fcanary.txt&style=base16%2Fsolarized-light&type=code&showBorder=on&showFullPath=on"></iframe>
