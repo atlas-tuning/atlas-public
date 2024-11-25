@@ -9,4 +9,8 @@ Atlas is intended for the legal and responsible modification of a vehicle's ECU 
 
 Atlas can still be installed by Californian users and they can still utilize any other unrelated features of Atlas, but due to the strict emissions regulations imposed by the California Air Resources Board (CARB), Atlas will prevent any attempt to flash Californian vehicles.
 
+Californian users will be shown the following status message upon any attempt to reflash the ECU.
+
+![California User Notice](assets/posts/cali_users_notice.jpg?raw=true "California User Notice")
+
 We understand how frustrating this news will be and we apologize that we're not able to support this functionality. Unfortunately we have determined that a 49-state solution is the only option that we can implement at this time.
